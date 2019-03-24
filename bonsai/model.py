@@ -1618,7 +1618,7 @@ class CodeTryBlock(CodeStatement, CodeStatementGroup):
             body = self.body.pretty_str(indent=indent + 2)
             pretty = '{}catch ({}):\n{}'.format(spaces, decls, body)
             return pretty
-
+CodeCatchBlock = CodeTryBlock.CodeCatchBlock
 
 ###############################################################################
 # Helpers
