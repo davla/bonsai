@@ -1,4 +1,11 @@
 # Bonsai
+
+:skull::skull::skull: ***This repository is archived :sob: I'm not maintaining it, as I graduated*** :skull::skull::skull:
+
+This was part of my thesis project, so I'm not actively working on this since I graduated. The work is far from being completed, and I'd like to do some more on this, but I don't have time and it's very low in my priority list.
+
+---
+
 Bonsai is an attempt to provide a miniature and refined representation for the
 often cumbersome **syntax trees** and **program models**.
 This idea, of providing a *smaller tree* that is more or less the same thing,
